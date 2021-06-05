@@ -3,8 +3,7 @@
 A mini clone of the Cowrywise app, using programmatic UI.
 Cowrywise is a savings app that helps users save and manage finances.
 
-![1](https://user-images.githubusercontent.com/69020285/120905636-540e4400-c64b-11eb-9dd6-db71be9b413b.png)
-![2](https://user-images.githubusercontent.com/69020285/120905642-5bcde880-c64b-11eb-917a-bf133a5632d8.png)
-![7](https://user-images.githubusercontent.com/69020285/120905644-5ffa0600-c64b-11eb-804b-35ffe9e988ec.png)
-![8](https://user-images.githubusercontent.com/69020285/120905650-65575080-c64b-11eb-8a23-282737229efb.png)
-![10](https://user-images.githubusercontent.com/69020285/120905652-67b9aa80-c64b-11eb-9069-fbf45a53128f.png)
+<img width="407" alt="Screenshot 2021-06-05 at 22 16 46" src="https://user-images.githubusercontent.com/69020285/120905710-e31b5c00-c64b-11eb-9dfb-f35146f0622f.png">
+<img width="389" alt="Screenshot 2021-06-05 at 22 16 54" src="https://user-images.githubusercontent.com/69020285/120905712-e57db600-c64b-11eb-98f7-a19e7e04ad6d.png">
+<img width="387" alt="Screenshot 2021-06-05 at 22 17 04" src="https://user-images.githubusercontent.com/69020285/120905715-e7e01000-c64b-11eb-9afe-d589734b802a.png">
+<img width="408" alt="Screenshot 2021-06-05 at 22 17 45" src="https://user-images.githubusercontent.com/69020285/120905716-e9a9d380-c64b-11eb-9f01-65fbbaa26289.png">
